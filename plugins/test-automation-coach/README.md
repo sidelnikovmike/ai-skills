@@ -2,6 +2,8 @@
 
 A skill for Claude based on the book *Let's automate it!* by Mikhail Sidelnikov. It is useful for automation engineers, developers, manual testers and managers.
 
+It works best together with [testing-coach](../testing-coach/README.md). That skill covers what and how to test, and this one covers automation.
+
 ## What it does
 
 | Mode | Example request |

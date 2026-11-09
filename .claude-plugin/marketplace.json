@@ -15,6 +15,12 @@
       "source": "./plugins/test-automation-coach",
       "description": "Explains test automation in plain words, helps decide whether automating is worth it, plans automation and QA processes from scratch, and reviews or writes autotests without over-engineering. Based on the book Let's automate it!",
       "version": "0.1.0"
+    },
+    {
+      "name": "testing-coach",
+      "source": "./plugins/testing-coach",
+      "description": "Coaches testers in the craft: designs tests from requirements, finds gaps in specs, writes and reviews bug reports, plans testing and regression under time pressure, and prepares newcomers for QA interviews. Based on Roman Savin's book Testing Dot Com.",
+      "version": "0.1.0"
     }
   ]
 }
