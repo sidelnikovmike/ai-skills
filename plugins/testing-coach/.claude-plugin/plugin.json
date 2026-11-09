@@ -1,0 +1,6 @@
+{
+  "name": "testing-coach",
+  "version": "0.1.0",
+  "description": "Coaches testers in the craft: designs tests from requirements, finds gaps in specs, writes and reviews bug reports, plans testing and regression under time pressure, and prepares newcomers for QA interviews. Based on Roman Savin's book Testing Dot Com.",
+  "author": { "name": "Mikhail Sidelnikov" }
+}
